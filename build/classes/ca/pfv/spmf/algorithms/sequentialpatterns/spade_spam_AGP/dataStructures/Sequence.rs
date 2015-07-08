@@ -1,0 +1,2 @@
+ca.pfv.spmf.algorithms.sequentialpatterns.spade_spam_AGP.dataStructures.Sequence
+ca.pfv.spmf.algorithms.sequentialpatterns.spade_spam_AGP.dataStructures.comparatorTimestamps

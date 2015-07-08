@@ -1,0 +1,2 @@
+ca.pfv.spmf.algorithms.sequentialpatterns.clasp_AGP.dataStructures.comparatorTimestamps
+ca.pfv.spmf.algorithms.sequentialpatterns.clasp_AGP.dataStructures.Sequence
